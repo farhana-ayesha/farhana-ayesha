@@ -1,9 +1,10 @@
-### Hello, I'm Farhana Ayesha. 
+### Hello, I'm Farhana Ayesha.
 
 💻 I'm a beginner web developer learning HTML, CSS, and JavaScript, focused on building solid frontend foundations.
 - Currently working on my portfolio website and small JS projects to sharpen my skills.
 - Exploring freelancing opportunities in frontend development.
 - Open to collaborating on beginner-friendly open source projects.
+- 
 
 ### 🛠️ Tech Stack
 
