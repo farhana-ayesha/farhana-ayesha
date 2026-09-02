@@ -4,7 +4,7 @@
 - Currently working on my portfolio website and small JS projects to sharpen my skills.
 - Exploring freelancing opportunities in frontend development.
 - Open to collaborating on beginner-friendly open source projects.
-- 
+  
 
 ### 🛠️ Tech Stack
 
