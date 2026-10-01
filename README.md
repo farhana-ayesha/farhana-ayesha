@@ -96,13 +96,3 @@ I'm currently strengthening my skills in modern frontend development and buildin
 </p>
 
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="YOUR_STATS_URL" height="170" />
-  <img src="YOUR_STREAK_URL" height="170" />
-</p>
-
-<p align="center">
-  <img src="YOUR_ACTIVITY_GRAPH_URL" />
-</p>
