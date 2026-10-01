@@ -66,14 +66,6 @@ I'm currently strengthening my skills in modern frontend development and buildin
 
 </p>
 
-### 🔐 Authentication
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/Authentication-6C63FF?style=for-the-badge&logo=auth0&logoColor=white" />
-
-</p>
-
 ---
 
 ### 🚀 What I'm Working On
@@ -82,7 +74,6 @@ I'm currently strengthening my skills in modern frontend development and buildin
 - Improving my React and Next.js skills
 - Strengthening JavaScript and TypeScript fundamentals
 - Learning authentication and database integration
-- Building projects for my portfolio
 
 ---
 
