@@ -111,10 +111,5 @@ I'm currently strengthening my skills in modern frontend development and buildin
   <img src="https://streak-stats.demolab.com?user=farhana-ayesha&hide_border=true" />
 </p>
 
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=farhana-ayesha&hide_border=true" />
-</p>
 
 
