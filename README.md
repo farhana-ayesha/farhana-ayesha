@@ -86,15 +86,6 @@ I'm currently strengthening my skills in modern frontend development and buildin
 
 ---
 
-### 📌 Featured Projects
-
-- **DevConf2026** — Event/conference website
-- **Dev Stack** — Technology-focused web application
-- **Fitlog** — Fitness tracking project
-- **E-commerce Website** — Responsive e-commerce project
-
----
-
 ### 📫 Reach Me
 
 <p align="left">
