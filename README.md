@@ -1,3 +1,4 @@
+<img width="900" height="260" alt="farhana-coding-banner" src="https://github.com/user-attachments/assets/96e8e61d-f54e-41e9-8a8f-04ef030472b2" />
 
 
 
