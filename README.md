@@ -1,8 +1,4 @@
 
-<p align="center">
-  <img src="YOUR_GIF_LINK" alt="Farhana Ayesha - Frontend Developer" />
-</p>
-
 
 
 # Hi, I'm Farhana Ayesha 👋
