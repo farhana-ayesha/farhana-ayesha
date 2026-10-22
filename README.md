@@ -48,20 +48,8 @@ I'm currently strengthening my skills in modern frontend development and buildin
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </a>
 
-<a href="https://git-scm.com/">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</a>
-
-<a href="https://github.com/">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
 <a href="https://www.figma.com/">
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-</a>
-
-<a href="https://penpot.app/">
-<img src="https://img.shields.io/badge/Penpot-000000?style=for-the-badge&logo=penpot&logoColor=white" />
 </a>
 
 </p>
